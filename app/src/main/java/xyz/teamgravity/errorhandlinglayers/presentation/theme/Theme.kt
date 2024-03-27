@@ -1,4 +1,4 @@
-package xyz.teamgravity.errorhandlinglayers.ui.theme
+package xyz.teamgravity.errorhandlinglayers.presentation.theme
 
 import android.app.Activity
 import android.os.Build
